@@ -23,6 +23,6 @@ def find_even():
     if num!="":
         if int(num)%2==0:
             count+=1
-    print("the number of even are :",count)         
+    print("the number of even are are re :",count)         
 
 find_even()
