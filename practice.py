@@ -25,4 +25,4 @@ def find_even():
             count+=1
     print("the number of even are :",count)         
 
-find_even() 
+find_even()
