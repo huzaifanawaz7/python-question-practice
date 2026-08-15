@@ -1,0 +1,9 @@
+a=10
+b=4
+c=9
+d=2
+a=b
+b=c
+c=d
+d=a
+print(a,b,c,d)
